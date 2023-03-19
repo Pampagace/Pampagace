@@ -1,12 +1,26 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
- <source media="(prefers-color-scheme: light)" srcset="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
- <img alt="Twinsun" src="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
-</picture>
+<!-- Ceci est un commentaire -->
 
-## Sur moi
+# The largest heading
+## The second largest heading
+###### The smallest heading
 
-Salut, je suis Pampagace
+---
+
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+***All this text is important***
+<sub>This is a subscript text</sub>
+<sup>This is a superscript text</sup>
+
+---
+
+Text that is not a quote
+> Text that is a quote
+— Pampagace
+
+---
 
 <details>
 <summary>Mes langages</summary>
@@ -21,8 +35,9 @@ Salut, je suis Pampagace
 </details>
 
 ---
-> Un anneau pour le seigneur noir sur son sombre trone
 
-— Pampagace
-
-<!-- Ceci est un commentaire -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
+ <source media="(prefers-color-scheme: light)" srcset="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
+ <img alt="Twinsun" src="https://vignette.wikia.nocookie.net/lba/images/4/4e/Twinsun.png/revision/latest?cb=20120307233830">
+</picture>
